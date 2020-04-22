@@ -1,5 +1,8 @@
 <?php
 
+/* DISCORD: кнαℓє∂#7787 */
+/* Credits: by xXLKHaLeD098Xx */
+
 namespace Khaled;
 
 use pocketmine\event\Listener;
