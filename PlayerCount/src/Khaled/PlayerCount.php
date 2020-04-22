@@ -32,9 +32,9 @@ class PlayerCount extends PluginBase implements Listener{
 	public function slapperCreation(SlapperCreationEvent $ev){
 		$entity = $ev->getEntity();
 		$name = $entity->getNameTag();
-		$pos = strpos($name, "count");
+		$pos = strpos($name, "count ");
 		if($pos !== false){
-			$levelname = str_replace("count", "", $name);
+			$levelname = str_replace("count ", "", $name);
 			if(file_exists($this->getServer()->getDataPath()."/worlds/".$levelname)){
 				if (!$this->getServer()->isLevelLoaded($levelname)) $this->getServer()->loadLevel($levelname);
 				$entity->namedtag->setString("isPlayerCount", "yes");
