@@ -39,8 +39,6 @@ class PlayerCount extends PluginBase implements Listener{
 				if (!$this->getServer()->isLevelLoaded($levelname)) $this->getServer()->loadLevel($levelname);
 				$entity->namedtag->setString("isPlayerCount", "yes");
 				$entity->namedtag->setString("isPlayerCountLevel", $levelname);
-				$ev->getCreator()->sendMessage("The isplayercount is §a ".$entity->namedtag->getString("isPlayerCount"));
-				$ev->getCreator()->sendMessage("The isplayercountlevel is §a ".$entity->namedtag->getString("isPlayerCountLevel"));
 				$search = array(
 					"{world}",
 					"{number}"
