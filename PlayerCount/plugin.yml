@@ -1,0 +1,4 @@
+name: PlayerCount
+version: 0.1
+api: 3.9.0
+main: Khaled\PlayerCount
