@@ -13,6 +13,3 @@ https://poggit.pmmp.io/p/PlayerCount/1.0
 [![](https://poggit.pmmp.io/shield.state/PlayerCount)](https://poggit.pmmp.io/p/PlayerCount)
 <a href="https://poggit.pmmp.io/p/PlayerCount"><img src="https://poggit.pmmp.io/shield.state/PlayerCount"></a>
 
-[![](https://poggit.pmmp.io/shield.api/PlayerCount)](https://poggit.pmmp.io/p/PlayerCount)
-<a href="https://poggit.pmmp.io/p/PlayerCount"><img src="https://poggit.pmmp.io/shield.api/PlayerCount"></a>
-
