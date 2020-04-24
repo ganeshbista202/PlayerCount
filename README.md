@@ -8,3 +8,11 @@ then we have to type "/slapper spawn human count PVP"
 
 The plugin is also configurable so you can edit the entity's nametag
 Enjoy!
+##Poggit
+https://poggit.pmmp.io/p/PlayerCount/1.0
+[![](https://poggit.pmmp.io/shield.state/PlayerCount)](https://poggit.pmmp.io/p/PlayerCount)
+<a href="https://poggit.pmmp.io/p/PlayerCount"><img src="https://poggit.pmmp.io/shield.state/PlayerCount"></a>
+
+[![](https://poggit.pmmp.io/shield.api/PlayerCount)](https://poggit.pmmp.io/p/PlayerCount)
+<a href="https://poggit.pmmp.io/p/PlayerCount"><img src="https://poggit.pmmp.io/shield.api/PlayerCount"></a>
+
